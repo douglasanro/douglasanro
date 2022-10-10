@@ -1,10 +1,16 @@
 **Hey there! 👋**
 
-My name is Douglas Rosa, a Front-end Developer from Brazil (🇧🇷).
+I'm Douglas Rosa, Front-end Engineer from Brazil.
 
-- I'm always enjoying a cup of coffee
-- I'm always looking for creative and challenging projects
-- I'm in a constant search for better practices and also creating/experimenting new things
+### ℹ️ About Me
+
+- 🧑‍💻 I've been working with technology for over a decade
+- 🏞️ Passionate about nature
+- 🎯 Enthusiastic about creative and challenging projects
+- 🖤 Minimalist
+- ⚡ Fun fact: The last time I shaved off my beard was in 2009
+
+> If you can't carry it in your heart or on your back you probably don't need it.
 
 Would you like to find me?
 
